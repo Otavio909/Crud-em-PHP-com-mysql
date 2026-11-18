@@ -1,0 +1,12 @@
+
+# Configurações locais do banco
+config/conexao.php
+
+# Arquivos temporários
+*.log
+.env
+.env.*
+!.env.example
+
+# Dependências
+/vendor/
